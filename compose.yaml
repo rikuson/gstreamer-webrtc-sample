@@ -1,0 +1,6 @@
+version: "3.5"
+
+services:
+  gstreamer:
+    image: restreamio/gstreamer:arm64-latest-prod
+    tty: true
